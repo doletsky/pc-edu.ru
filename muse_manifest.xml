@@ -1,0 +1,63 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1427820542699">
+  <folder name="css">
+    <file name="site_global.css" crc="4141611096"/>
+    <file name="master_______-a.css" crc="4036962982" ref="index:-поддержка:-о-нас:-контакты:-направления"/>
+    <file name="form2.css" crc="4031882414" ref="form2"/>
+    <file name="index.css" crc="4071651308" ref="index"/>
+    <file name="iefonts_index.css" crc="4269743833" ref="index"/>
+    <file name="form.css" crc="398601431" ref="form"/>
+    <file name="-_________.css" crc="3966302591" ref="-поддержка"/>
+    <file name="iefonts_-_________.css" crc="3828113380" ref="-поддержка"/>
+    <file name="-_-___.css" crc="504414873" ref="-о-нас"/>
+    <file name="iefonts_-_-___.css" crc="424312472" ref="-о-нас"/>
+    <file name="-________.css" crc="43283600" ref="-контакты"/>
+    <file name="iefonts_-________.css" crc="3806025176" ref="-контакты"/>
+    <file name="-___________.css" crc="3973762445" ref="-направления"/>
+    <file name="iefonts_-___________.css" crc="228339753" ref="-направления"/>
+  </folder>
+  <folder name="fonts">
+    <file name="bigbossicon.woff" crc="331700122"/>
+    <file name="bigbossicon.eot" crc="492749460"/>
+    <file name="bigbossicon.svg" crc="4248078019"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:-о-нас:-направления:-контакты:-поддержка:form:form2"/>
+    <file name="museutils.js" crc="479751881" ref="index:-о-нас:-направления:-контакты:-поддержка:form:form2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="503158633" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index:-о-нас:-направления:-контакты:-поддержка:form:form2"/>
+    <file name="pie.js" crc="3827607177" ref="index:-контакты:-поддержка"/>
+    <file name="webpro.js" crc="3930024250" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="touchswipe.js" crc="4151298246" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:-о-нас:-направления:-контакты:-поддержка:form:form2"/>
+  </folder>
+  <folder name="images">
+    <file name="шаблон-a-favicon.ico" crc="71879219" ref="index"/>
+    <file name="bg.jpg" crc="3817124150" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="u210-grad.png" crc="3853240690" ref="index"/>
+    <file name="профкомп_логотип-big.png" crc="4155685092" ref="index:-о-нас:-направления:-контакты:-поддержка"/>
+    <file name="circle-fades-u220-fr.png" crc="516638317" ref="index"/>
+    <file name="circle-u230-fr.png" crc="4122320454" ref="index"/>
+    <file name="imgo.jpg" crc="3925236221" ref="index"/>
+    <file name="u166-grad.png" crc="147773809" ref="index"/>
+    <file name="dpi for lego.jpg" crc="202331995" ref="-о-нас"/>
+    <file name="lego_logo_1972.jpg" crc="3952271255" ref="-о-нас"/>
+    <file name="apple-03.png" crc="3770432867" ref="-о-нас"/>
+    <file name="dpi for lego september, 19.jpg" crc="4049849552" ref="-направления"/>
+    <file name="dpi for lego september,.jpg" crc="4148983352" ref="-направления"/>
+    <file name="u756-6.png" crc="217276358" ref="-контакты"/>
+    <file name="u746-4.png" crc="4111327903" ref="-контакты"/>
+    <file name="u755-5.png" crc="310291237" ref="-контакты"/>
+    <file name="dpi-for-lego-september,-19-1.png" crc="3866590008" ref="-поддержка"/>
+    <file name="u829-4.png" crc="3769486951" ref="-поддержка"/>
+  </folder>
+  <file name="index.html" crc="239939624" mt="1427815596292" redirect="true"/>
+  <file name="-о-нас.html" crc="437403663" mt="1427815265072" redirect="true"/>
+  <file name="-направления.html" crc="441455171" mt="1427815201766" redirect="true"/>
+  <file name="-контакты.html" crc="49119137" mt="1427803422261" redirect="true"/>
+  <file name="-поддержка.html" crc="23804315" mt="1427819207360" redirect="true"/>
+  <file name="form.html" crc="3810962957" mt="1427800351874" redirect="true"/>
+  <file name="form2.html" crc="279510953" mt="1427800322883" redirect="true"/>
+</manifest>

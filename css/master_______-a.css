@@ -1,0 +1,300 @@
+#u210
+{
+	background: transparent url("../images/u210-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(60%, #F3EEEE),to(rgba(231,229,231,0)));
+	background: -webkit-linear-gradient(top,#F3EEEE 60%,rgba(231,229,231,0) );
+	background: linear-gradient(to bottom,#F3EEEE 60%,rgba(231,229,231,0) );
+}
+
+#u176-4
+{
+	background-color: transparent;
+	line-height: 36px;
+	font-size: 30px;
+	text-align: right;
+	color: #242424;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u99
+{
+	background-color: #043762;
+	position: relative;
+}
+
+#u243,#u191,#u192
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u194-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	color: #D7D4D4;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u192:hover #u194-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u124,#u125
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u127-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	color: #D7D4D4;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u192.MuseMenuActive #u194-4 p,#u125:hover #u127-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u117,#u118
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u121-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	color: #D7D4D4;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u125.MuseMenuActive #u127-4 p,#u118:hover #u121-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u145,#u148
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u150-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	color: #D7D4D4;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u118.MuseMenuActive #u121-4 p,#u148:hover #u150-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u138,#u141
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u192.MuseMenuActive,#u125.MuseMenuActive,#u118.MuseMenuActive,#u148.MuseMenuActive,#u141.MuseMenuActive
+{
+	background-color: transparent;
+}
+
+#u142-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	color: #D7D4D4;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u148.MuseMenuActive #u150-4 p,#u141:hover #u142-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u141.MuseMenuActive #u142-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u220
+{
+	position: relative;
+	background: transparent url("../images/circle-fades-u220-fr.png") no-repeat right bottom;
+}
+
+#u230
+{
+	position: relative;
+	background: transparent url("../images/circle-u230-fr.png") no-repeat right center;
+}
+
+#u210_align_to_page,#pamphletu510,#u521
+{
+	position: relative;
+}
+
+#u178-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	text-align: right;
+	color: #043762;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u522:hover #u178-4 p,#u522:hover #u178-4 span
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u522.PamphletThumbSelected #u178-4 p,#u522.PamphletThumbSelected #u178-4 span
+{
+	color: #043762;
+	visibility: inherit;
+}
+
+#u178
+{
+	text-decoration: underline;
+}
+
+#u517
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #8B8B8B;
+	background-color: rgba(127,127,127,0.9);
+	-pie-background: rgba(127,127,127,0.9);
+}
+
+#u518
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#menuu116,#u519
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u522,#u513
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u514-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 30px;
+	font-size: 61px;
+	text-align: center;
+	color: #7F7F7F;
+	font-family: '__BigBossIcon_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u514-4:hover p
+{
+	color: #D7D4D4;
+	visibility: inherit;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u174
+{
+	background-color: #7F7F7F;
+	position: relative;
+}
+
+#u183-4,#u182-4
+{
+	background-color: transparent;
+	line-height: 19px;
+	font-size: 16px;
+	text-align: left;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+

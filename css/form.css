@@ -1,0 +1,52 @@
+.version.form /* version checker */
+{
+	color: #000017;
+	background-color: #C22CD7;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 520px;
+	min-height: 684.9999999999999px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	width: 0.01px;
+}
+
+#u301
+{
+	z-index: 2;
+	width: 520px;
+	min-height: 583px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 520px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
