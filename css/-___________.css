@@ -345,13 +345,17 @@
 	min-height: 179px;
 }
 
-#u220
+#u220, #u220_2
 {
 	z-index: 39;
 	width: 590px;
 	margin-right: -10000px;
 	margin-top: 153px;
 	left: 100px;
+}
+#u220_2
+{
+
 }
 
 #u220_position_content
